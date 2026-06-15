@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cicatrices-de-un-reencuentro-inesperado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cicatrices de un reencuentro inesperado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-un-reencuentro-inesperado/) |
+| **Get License** | [Secure Licensing Rights for Cicatrices de un reencuentro inesperado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-un-reencuentro-inesperado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, en la disco de Madrid nos volvimo' a cruzar
+> Tus ojos me dicen que no me has podi'o olvidar
+> Cicatrices de un fuego que vuelve a quemar
+> Dime si esta noche nos vamo' a escapar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
